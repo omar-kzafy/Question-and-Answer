@@ -175,7 +175,7 @@
         </div >
     </nav>
     <section>
-        <button id="playButton">إلعب</button>
+        <a href='play.html' id="playButton">إلعب</a>
         <button class="instructions">التعليمات</button>
         <div class="ordersdiv">
             <div class="insts">
@@ -204,9 +204,6 @@
         but.onclick = () => {
             document.querySelector('.mover i').classList.toggle('moved');
             document.querySelector('nav').classList.toggle('moved')
-        }
-        document.querySelector('#playButton').onclick = () => {
-            window.location.href = window.location.href.slice(0,location.href.indexOf('index')) + 'play.html';
         }
         const colors = ["#3CC157", "#2AA7FF", "#1B1B1B", "#FCBC0F", "#F85F36"];
 
