@@ -336,8 +336,9 @@ section {
     top: 50%;
     transform: translate(-50%,-50%);
 }
-section button, section a {
+section > * {
     width: 150px;
+    color: black;
     height: 100px;
     background-color: rgb(93, 255, 93);
     border: none;
@@ -347,11 +348,17 @@ section button, section a {
     transition: 0.3s;
     cursor: pointer;
     box-shadow: 0 0 5px 3px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-section button:hover, section a:hover {
+section > *:hover {
     box-shadow: 0 0 15px 8px black;
     background-color: rgb(253, 103, 17);
     transform: scale(1.1);
+}
+a {
+    color: black;
 }
 section button.instructions {
     background-color: rgb(251, 255, 4);
@@ -540,6 +547,9 @@ section button.instructions:hover {
 .quesAnswerd span.here {
     background-color: rgb(243, 243, 243);
     color: black;
+}
+a {
+    text-decoration: none;
 }
 .winleft {
     position: absolute;
