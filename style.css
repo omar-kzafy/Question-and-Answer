@@ -336,7 +336,7 @@ section {
     top: 50%;
     transform: translate(-50%,-50%);
 }
-section button {
+section button, section a {
     width: 150px;
     height: 100px;
     background-color: rgb(93, 255, 93);
@@ -348,7 +348,7 @@ section button {
     cursor: pointer;
     box-shadow: 0 0 5px 3px black;
 }
-section button:hover {
+section button:hover, section a:hover {
     box-shadow: 0 0 15px 8px black;
     background-color: rgb(253, 103, 17);
     transform: scale(1.1);
@@ -465,7 +465,7 @@ section button.instructions:hover {
     z-index: 11;
     background-color: rgba(0, 0, 0, 0.582);
 }
-.loseIns button {
+.loseIns a {
     background-color: rgb(174, 0, 255);
     border: 2px solid black;
     padding: 10px 5px;
@@ -475,7 +475,7 @@ section button.instructions:hover {
     cursor: pointer;
     transition: 0.3s;
 }
-.loseIns button:hover {
+.loseIns a:hover {
     scale: 1.1;
     box-shadow: 0 0 15px 2px black;
 }
@@ -563,7 +563,7 @@ section button.instructions:hover {
 .winleft img {
     max-width: 100px;
 }
-.winleft button {
+.winleft a {
     background-color: rgb(23, 201, 255);
     border: none;
     font-weight: 600;
@@ -574,7 +574,7 @@ section button.instructions:hover {
     cursor: pointer;
     box-shadow: 0 0 5px 3px black;
 }
-.winleft button:hover {
+.winleft a:hover {
     box-shadow: 0 0 15px 5px black;
     background-color: rgb(179, 184, 255);
     transform: scale(1.01);
