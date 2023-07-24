@@ -35,12 +35,6 @@ document.querySelector('.quesAnswerd i').onclick = () => {
     document.querySelector('.quesAnswerd').classList.toggle('moved');
     document.querySelector('.quesAnswerd i').classList.toggle('moved')
 }
-document.querySelector('.loseIns button').onclick = () => {
-    location.href = location.href.slice(0,location.href.indexOf('play.html')) + 'index.html'
-}
-document.querySelector('.winleft button').onclick = () => {
-    location.href = location.href.slice(0,location.href.indexOf('play.html')) + 'index.html'
-}
 function shuffle(array) {
     let currentIndexInner = array.length,  randomIndex;
   
