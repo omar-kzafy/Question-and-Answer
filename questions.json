@@ -1,0 +1,1001 @@
+[
+    {
+        "title": "متى بدأت الحرب العالمية الثانية",
+        "answer_1": "1935",
+        "answer_2": "1914",
+        "answer_3": "1939",
+        "answer_4": "1944",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "1939"
+    },
+    {
+        "title": "من فاز بكأس العالم 1986 لكرة القدم",
+        "answer_1": "ألمانيا الغربية",
+        "answer_2": "البرازيل",
+        "answer_3": "إيطاليا",
+        "answer_4": "الأرجنتين",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الأرجنتين"
+    },
+    {
+        "title": "ما ناتج العملية (14 - 12 * 2 / 3)",
+        "answer_1": "6",
+        "answer_2": "11",
+        "answer_3": "4",
+        "answer_4": "-3",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "4"
+    },
+    {
+        "title": "متى حصلت جائحة الإنفلوانزا الإسبانية",
+        "answer_1": "1918",
+        "answer_2": "1974",
+        "answer_3": "1853",
+        "answer_4": "2004",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "1918"
+    },
+    {
+        "title": "من صاحب قصة \"The Black Beauty\"",
+        "answer_1": "Anna Sewell",
+        "answer_2": "Shakespear",
+        "answer_3": "Leonado Capello",
+        "answer_4": "Armando Ghallu",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "Anna Sewell"
+    },
+    {
+        "title": "الولايات المتحدة الامريكية دولة مميزة وفريدة فما هو شعارها",
+        "answer_1": "النسر الأصلع",
+        "answer_2": "الخمسون نجمة",
+        "answer_3": "الحرية",
+        "answer_4": "الوطن أولاََ",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "النسر الأصلع"
+    },
+    {
+        "title": "اين صنعت أول كسوة للكعبة؟",
+        "answer_1": "اليمن",
+        "answer_2": "بلاد الحجاز",
+        "answer_3": "مصر",
+        "answer_4": "بلاد الشام",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "مصر"
+    },
+    {
+        "title": "ماهو علم الميتورولوجيا",
+        "answer_1": "علم دراسة الأنساب",
+        "answer_2": "علم الحياة و الأرض",
+        "answer_3": "علم الخلايا",
+        "answer_4": "علم الارصاد الجوية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "علم الارصاد الجوية"
+    },
+    {
+        "title": "ما هو العنصر الغير متواجد بالحليب",
+        "answer_1": "الجلاكتوز",
+        "answer_2": "الحديد",
+        "answer_3": "الزنك",
+        "answer_4": "البوتاسيوم",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الحديد"
+    },
+    {
+        "title": "من هي أول بلد تشرع في الألعاب الأولمبية ",
+        "answer_1": "إيطاليا",
+        "answer_2": "مصر القديمة",
+        "answer_3": "الدولة الفينيقية",
+        "answer_4": "اليونان",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "اليونان"
+    },
+    {
+        "title": "ما هي أول دولة قامت باستخدام الطابع البريدي",
+        "answer_1": "فرنسا",
+        "answer_2": "بريطانيا",
+        "answer_3": "الولايات المتحدة الأمريكية",
+        "answer_4": "كندا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "بريطانيا"
+    },
+    {
+        "title": "ماذا كان يطلق قديمًا على معدن الذهب",
+        "answer_1": "الأصفر الرنان",
+        "answer_2": "المعدن النادر",
+        "answer_3": "الفضة المصفرة",
+        "answer_4": "النفيس",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الأصفر الرنان"
+    },
+    {
+        "title": "ما هو أسرع حيوان مائي بالعالم",
+        "answer_1": "سمكة الزعفران الشراعية",
+        "answer_2": "الدولفين",
+        "answer_3": "الحوت الأبيض",
+        "answer_4": "السمكة الذهبية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "سمكة الزعفران الشراعية"
+    },
+    {
+        "title": "ما هي عاصمة البرازيل",
+        "answer_1": "ريو دي جينيرو",
+        "answer_2": "برايزليا",
+        "answer_3": "ساو باولو",
+        "answer_4": "أورينهوس",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "برايزليا"
+    },
+    {
+        "title": "...السنة الضوئية وحدة قياس ل",
+        "answer_1": "الزمن",
+        "answer_2": "الكتلة",
+        "answer_3": "الطول",
+        "answer_4": "الكثافة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الطول"
+    },
+    {
+        "title": "ماذا يُسمى صغير الضفدع",
+        "answer_1": "برمائي",
+        "answer_2": "ضفيدع",
+        "answer_3": "أنمل",
+        "answer_4": "شرغوف",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "شرغوف"
+    },
+    {
+        "title": "من هو أول من قام بصكّ النقود عند العرب",
+        "answer_1": "عبد الملك بن مروان",
+        "answer_2": "الخليفة عمر بن عبد العزيز",
+        "answer_3": "هارون الرشيد",
+        "answer_4": "يزيد بن معاوية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "عبد الملك بن مروان"
+    },
+    {
+        "title": "من هو آخر صحابي توفي من العشرة المبشرين بالجنّة",
+        "answer_1": "أبو عبيدة بن الجراح رضي الله عنه",
+        "answer_2": "عبد الرحمن بن عوف رضي الله عنه",
+        "answer_3": "عمر بن الخطاب رضي الله عنه",
+        "answer_4": "سعد بن أبي وقّاص رضي الله عنه",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "سعد بن أبي وقّاص رضي الله عنه"
+    },
+    {
+        "title": "ما هي آخر سورة نزلت في مكّة المكرّمة",
+        "answer_1": "الكهف",
+        "answer_2": "الروم",
+        "answer_3": "الإسراء",
+        "answer_4": "الأنبياء",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الروم"
+    },
+    {
+        "title": "من الذين ابتكروا التقويم الشمسي",
+        "answer_1": "البحارى الفينيقيون",
+        "answer_2": "علماء الإغريق",
+        "answer_3": "المصريين القدماء",
+        "answer_4": "الأحبار",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "المصريين القدماء"
+    },
+    {
+        "title": "ما هي عاصمة  ألمانيا",
+        "answer_1": "دورتموند",
+        "answer_2": "هامبورغ",
+        "answer_3": "ميونخ",
+        "answer_4": "برلين",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "برلين"
+    },
+    {
+        "title": "ما هي أكبر دولة تقع بأكملها بأوروبا",
+        "answer_1": "أوكرانيا",
+        "answer_2": "تركيا",
+        "answer_3": "السويد",
+        "answer_4": "فرنسا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "أوكرانيا"
+    },
+    {
+        "title": "ما اللغة الرسمية في بلجيكا",
+        "answer_1": "البلجيكية",
+        "answer_2": "الألمانية",
+        "answer_3": "الفرنسية",
+        "answer_4": "الهولندية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الفرنسية"
+    },
+    {
+        "title": "من قائل النص:  أُعاتِبُ دَهراً لاَ يلِينُ لعاتبِ : وأطْلُبُ أَمْناً من صُرُوفِ النَّوائِبِ ",
+        "answer_1": "أبو الطيب المتنبي",
+        "answer_2": "عنترة بن شداد",
+        "answer_3": "لبيد بن ربيعة العامري",
+        "answer_4": "إمرؤ القيس",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "عنترة بن شداد"
+    },
+    {
+        "title": "كم عدد بحور الشعر العربي ",
+        "answer_1": "7",
+        "answer_2": "16",
+        "answer_3": "6",
+        "answer_4": "13",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "16"
+    },
+    {
+        "title": "كم عدد عناصر الجدول الدوري ",
+        "answer_1": "96",
+        "answer_2": "112",
+        "answer_3": "118",
+        "answer_4": "136",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "118"
+    },
+    {
+        "title": "ما هي عاصمة رومانيا",
+        "answer_1": "بودابست",
+        "answer_2": "بوخارست",
+        "answer_3": "روما",
+        "answer_4": "لاوس",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "بوخارست"
+    },
+    {
+        "title": "العملة الرسمية في اليابان",
+        "answer_1": "فرانكو",
+        "answer_2": "الين",
+        "answer_3": "اليوان",
+        "answer_4": "الجنيه",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الين"
+    },
+    {
+        "title": "ما هي مدينة التلال السبعة",
+        "answer_1": "طوكيو",
+        "answer_2": "روما",
+        "answer_3": "لندن",
+        "answer_4": "ميكسيكو",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "روما"
+    },
+    {
+        "title": "ما وحدة قياس الضغط",
+        "answer_1": "نيوتن",
+        "answer_2": "باسكال",
+        "answer_3": "الطن",
+        "answer_4": "متر",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "باسكال"
+    },
+    {
+        "title": "ما هي اكثر دول إفريقيا سكاناً",
+        "answer_1": "إثيوبيا",
+        "answer_2": "نيجيريا",
+        "answer_3": "مصر",
+        "answer_4": "جنوب إفريقيا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "نيجيريا"
+    },
+    {
+        "title": "من هو الصحابي الجليل الذي كلفه أبو بكر الصديق أن يجمع القرآن الكريم",
+        "answer_1": "عثمان بن عفان",
+        "answer_2": "زيد بن ثابت",
+        "answer_3": "علي بن أبي طالب",
+        "answer_4": "خالد بن الوليد",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "زيد بن ثابت"
+    },
+    {
+        "title": "log(1000) = ",
+        "answer_1": "10",
+        "answer_2": "3",
+        "answer_3": "100",
+        "answer_4": "0",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "3"
+    },
+    {
+        "title": "من الشخص الذي تم تلقيبه بعميد الأدب العربي",
+        "answer_1": "احمد شوقي",
+        "answer_2": "طه حسين",
+        "answer_3": "مصطفى صادق الرفاعي",
+        "answer_4": "ابراهيم حافظ",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "طه حسين"
+    },
+    {
+        "title": "من هو العالم الذي اكتشف الدورة الدموية الصغرى",
+        "answer_1": "ابن الهيثم",
+        "answer_2": "ابن النفيس",
+        "answer_3": "ويليام هارفي",
+        "answer_4": "أندرياس فيزاليوس",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ابن النفيس"
+    },
+    {
+        "title": "متى أنشئت الجامعة العربية",
+        "answer_1": "أكتوبر 1951",
+        "answer_2": "مارس 1945",
+        "answer_3": "إبريل 1948",
+        "answer_4": "إبريل 1942",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "مارس 1945"
+    },
+    {
+        "title": "عدد الدول الأعضاء في الجامعة العربية",
+        "answer_1": "18",
+        "answer_2": "22",
+        "answer_3": "25",
+        "answer_4": "19",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "22"
+    },
+    {
+        "title": "كم عام إستمرت حرب المائة عام",
+        "answer_1": "99",
+        "answer_2": "116",
+        "answer_3": "100",
+        "answer_4": "87",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "116"
+    },
+    {
+        "title": "ما أوسع إمتداد لدولة عبر التاريخ",
+        "answer_1": "الدولة العثمانية",
+        "answer_2": "الإمبراطورية البريطانية",
+        "answer_3": "مملكة المغول",
+        "answer_4": "الإمبارطورية البيزنطية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الإمبراطورية البريطانية"
+    },
+    {
+        "title": "ما أكبر دولة بالعالم",
+        "answer_1": "الصين",
+        "answer_2": "روسيا",
+        "answer_3": "أمريكا",
+        "answer_4": "كندا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "روسيا"
+    },
+    {
+        "title": "ما عاصمة الأرجنتين",
+        "answer_1": "ساراندي",
+        "answer_2": "بوينس آيرس",
+        "answer_3": "مندوزا",
+        "answer_4": "سوزا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "بوينس آيرس"
+    },
+    {
+        "title": "من أكثر لاعب حصولاً على الكرة الذهبية",
+        "answer_1": "كريستيانو رونالدو",
+        "answer_2": "ليونيل ميسي",
+        "answer_3": "يوهان كرويف",
+        "answer_4": "ميشيل بلاتيني",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ليونيل ميسي"
+    },
+    {
+        "title": "من أكثر لاعب حصولاً على بطولة ويمبلدون للتنس",
+        "answer_1": "وفاك ديوكوفيتش",
+        "answer_2": "روجر فيدرير",
+        "answer_3": "رافاييل نادال",
+        "answer_4": "جيمي كونرز",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "روجر فيدرير"
+    },
+    {
+        "title": "كم عدد لاعبي فريق كرة السة",
+        "answer_1": "6",
+        "answer_2": "5",
+        "answer_3": "11",
+        "answer_4": "4",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "5"
+    },
+    {
+        "title": "من هو مخترع الهاتف",
+        "answer_1": "نيكولا تيسلا",
+        "answer_2": "جراهام بيل",
+        "answer_3": "ويليس هافيلاند",
+        "answer_4": "توماس إديسون",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "جراهام بيل"
+    },
+    {
+        "title": "أين تم بناء أول جامعة في العالم",
+        "answer_1": "بريطانيا",
+        "answer_2": "المغرب",
+        "answer_3": "مصر",
+        "answer_4": "إيطاليا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "المغرب"
+    },
+    {
+        "title": "من هو الملك المشهور بقلب الأسد",
+        "answer_1": "فريدريش التانى",
+        "answer_2": "ريتشارد",
+        "answer_3": "بونابرت",
+        "answer_4": "لويس التاسع",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ريتشارد"
+    },
+    {
+        "title": "كم عدد دول شبه الجزيرة العربية",
+        "answer_1": "خمس دول",
+        "answer_2": "سبع دول",
+        "answer_3": "إحدى عشر دولة",
+        "answer_4": "أربع دول",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "سبع دول"
+    },
+    {
+        "title": "في أي عام إكتشف كولومبس الأمريكتين",
+        "answer_1": "1294",
+        "answer_2": "1429",
+        "answer_3": "1577",
+        "answer_4": "1551",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "1429"
+    },
+    {
+        "title": "من هو قائد الجيوش الإسلامية الذي قام بفتح دول شمال أفريقيا",
+        "answer_1": "خالد بن الوليد",
+        "answer_2": "عقبة بن نافع",
+        "answer_3": "حسن بن ثابت",
+        "answer_4": "الحسن بن علي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "عقبة بن نافع"
+    },
+    {
+        "title": "أي مدينة كانت عاصمة دولة روسيا قبل مدينة موسكو",
+        "answer_1": "كييف",
+        "answer_2": "بطرسبرج",
+        "answer_3": "قازان",
+        "answer_4": "فلاديفستوك",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "بطرسبرج"
+    },
+    {
+        "title": "ما اسم المضيق المتواجد بين دولة اسبانيا ودولة المغرب",
+        "answer_1": "مضيق باب المندب",
+        "answer_2": "مضيق جبل طارق",
+        "answer_3": "مضيق باس",
+        "answer_4": " مضيق هرمز",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "مضيق جبل طارق"
+    },
+    {
+        "title": "من الفريق الحاصل على دوري أبطال أوروبا 2012",
+        "answer_1": "ليفربول",
+        "answer_2": "تشيلسي",
+        "answer_3": "بايرن ميونخ",
+        "answer_4": "برشلونة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "تشيلسي"
+    },
+    {
+        "title": "من أكثر لاعب حصولاً على بطولة كأس العالم",
+        "answer_1": "مارادونا",
+        "answer_2": "بيليه",
+        "answer_3": "ميسي",
+        "answer_4": "كافو",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "بيليه"
+    },
+    {
+        "title": "ما هي عاصمة تركيا",
+        "answer_1": "إسطنبول",
+        "answer_2": "أنقرة",
+        "answer_3": "طرابزون",
+        "answer_4": "أنطاليا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "أنقرة"
+    },
+    {
+        "title": "كل كم سنة تقام الأولمبياد",
+        "answer_1": "سنتان",
+        "answer_2": "أربع سنوات",
+        "answer_3": "ست سنوات",
+        "answer_4": "ثلاث سنوات",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "أربع سنوات"
+    },
+    {
+        "title": "كم ثانية توجد في يوم واحد",
+        "answer_1": "60",
+        "answer_2": "86,400",
+        "answer_3": "240,600",
+        "answer_4": "24",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "86,400"
+    },
+    {
+        "title": "من هم أول من استخدم الأرقام السالبة",
+        "answer_1": "الإنجليز",
+        "answer_2": "الصينيون",
+        "answer_3": "الفراعنة",
+        "answer_4": "الإغريق",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الصينون"
+    },
+    {
+        "title": "من هو أبو الجبر",
+        "answer_1": "إسحاق نيوتن",
+        "answer_2": "محمد بن موسى الخوارزمي",
+        "answer_3": "أرخميدس",
+        "answer_4": "فيثاغورث",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "محمد بن موسى الخوارزمي"
+    },
+    {
+        "title": "ما قياس الزاوية التي يحددها الضلعان 5 و 12 لمثلث أطوال أضلاعه 5 و 13 و 12",
+        "answer_1": "60°",
+        "answer_2": "90°",
+        "answer_3": "37°",
+        "answer_4": "55°",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "90°"
+    },
+    {
+        "title": "كم 9 توجد بين 1 و100",
+        "answer_1": "10",
+        "answer_2": "20",
+        "answer_3": "19",
+        "answer_4": "9",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "20"
+    },
+    {
+        "title": "كرة ومضرب ثمنها معًا 1.10 دولار، المضرب أغلى من الكرة بدولار واحد.. كم يبلغ ثمن الكرة",
+        "answer_1": "دولار 1",
+        "answer_2": "0.05 دولار",
+        "answer_3": "0.10 دولار",
+        "answer_4": "0.5 دولار",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "0.05 دولار"
+    },
+    {
+        "title": "UNESCO ما معنى إختصار",
+        "answer_1": "هيئة الحماية و الحفاظ على الحيوان",
+        "answer_2": "منظمة الأمم المتحدة للتربية والعلم والثقافة",
+        "answer_3": "جمعية حقوق الإنسان الحر و الوطن المستقل",
+        "answer_4": "منظمة الأمم المتحدة للطفولة لمجابهة الأمراض",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "منظمة الأمم المتحدة للتربية والعلم والثقافة"
+    },
+    {
+        "title": "أين يقع البنكرياس؟",
+        "answer_1": "أمام المعدة",
+        "answer_2": "خلف المعدة",
+        "answer_3": "بجانب القلب",
+        "answer_4": "خلف المريء",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "خلف المعدة"
+    },
+    {
+        "title": "كم عدد عظم جسم الإنسان؟",
+        "answer_1": "150 عظمة",
+        "answer_2": "206 عظمة",
+        "answer_3": "210 عظمة",
+        "answer_4": "320 عظمة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "206 عظمة"
+    },
+    {
+        "title": "من هو مؤسس علم الاجتماع؟",
+        "answer_1": "ابن النفيس",
+        "answer_2": "ابن خلدون",
+        "answer_3": "الإدريسي",
+        "answer_4": "ابن الهيثم",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ابن خلدون"
+    },
+    {
+        "title": "الزعيم الروحي للهند خلال حركة استقلالها",
+        "answer_1": "أنديرا غاندي",
+        "answer_2": "مهاتما غاندي",
+        "answer_3": "راجندرا پراساد",
+        "answer_4": "تشي جيفارا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "مهاتما غاندي"
+    },
+    {
+        "title": "من ماذا تتكون البروتينات كوحدات أساسية",
+        "answer_1": "سكريات",
+        "answer_2": "أحماض أمينية",
+        "answer_3": "بيبتيدات",
+        "answer_4": "روابط هيدروجينية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "أحماض أمينية"
+    },
+    {
+        "title": "كم عدد الدول العربية المطلة على البحر الأبيض المتوسط؟",
+        "answer_1": "8 دول",
+        "answer_2": "22 دولة",
+        "answer_3": "7 دول",
+        "answer_4": "17 دولة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "22 دولة"
+    },
+    {
+        "title": "العضو المسئول عن طرد السموم",
+        "answer_1": "الطحال",
+        "answer_2": "الكبد",
+        "answer_3": "البنكرياس",
+        "answer_4": "الأمعاء الغليظة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الكبد"
+    },
+    {
+        "title": "ما الاسم الذي يطلق على صغير الفيل",
+        "answer_1": "حمَل",
+        "answer_2": "دغفل",
+        "answer_3": "الظبي",
+        "answer_4": "الديسم",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "دغفل"
+    },
+    {
+        "title": "ما هي علامة نصب جمع المؤنث السالم",
+        "answer_1": "الضم",
+        "answer_2": "الكسرة",
+        "answer_3": "الياء",
+        "answer_4": "الألف",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الكسرة"
+    },
+    {
+        "title": "ما هو رقم ترتيب اللغة العربية من حيث الانتشار بين لغات العالم",
+        "answer_1": "اللغة الثانية",
+        "answer_2": "اللغة الرابعة",
+        "answer_3": "اللغة السادسة",
+        "answer_4": "اللغة الثالثة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "اللغة الرابعة"
+    },
+    {
+        "title": "ماذا يسمى الإحداثي السيني للزاوية في دائرة الوحدة",
+        "answer_1": "جيب الزاوية",
+        "answer_2": "جيب تمام الزاوية",
+        "answer_3": "ظل تمام الزاوية",
+        "answer_4": "جتا تمام الزاوية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "جيب تمام الزاوية"
+    },
+    {
+        "title": "ما هي أعلى هضبة في العالم",
+        "answer_1": "هضبة الدكن",
+        "answer_2": "هضبة التبت",
+        "answer_3": "هضبة الحجرة",
+        "answer_4": "هضبة الحجاز",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "هضبة التبت-"
+    },
+    {
+        "title": "من الذي اخترع الترمومتر عام 1593",
+        "answer_1": "جاليليو.",
+        "answer_2": "الطوسي",
+        "answer_3": "عبد الرحمن الرازي",
+        "answer_4": "ليوناردو دافنشي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "جاليليو"
+    },
+    {
+        "title": "ما هي أكبر مدينة بأوروبا",
+        "answer_1": "برلين",
+        "answer_2": "لندن",
+        "answer_3": "باريس",
+        "answer_4": "روما",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "لندن"
+    },
+    {
+        "title": "ولد الرئيس المصري السابق محمد نجيب في",
+        "answer_1": "القاهرة",
+        "answer_2": "الخرطوم",
+        "answer_3": "أسوان",
+        "answer_4": "دمياط",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الخرطوم"
+    },
+    {
+        "title": "المسمى العلمي للمادة عندما تتحول من الحالة الغازية الى الحالة السائلة",
+        "answer_1": "الإنصهار",
+        "answer_2": "التكثيف",
+        "answer_3": "التبخر",
+        "answer_4": "التجمد",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "التكثيف"
+    },
+    {
+        "title": "ما هو الجزءالذي لا يصل إليه الدم في جسم الإنسان",
+        "answer_1": "الأظافر",
+        "answer_2": "قرنية العين",
+        "answer_3": "المخيخ",
+        "answer_4": "الطحال",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "قرنية العين"
+    },
+    {
+        "title": "ما هي الدولة الوحيدة التي لها حدود مع الدنمارك",
+        "answer_1": "فرنسا",
+        "answer_2": "ألمانيا",
+        "answer_3": "السويد",
+        "answer_4": "بولندا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ألمانيا"
+    },
+    {
+        "title": "ماعدد مربعات لعبة الشطرنج",
+        "answer_1": "32 مربعاً",
+        "answer_2": "64 مربعاً",
+        "answer_3": "100 مربعاً",
+        "answer_4": "49 مربعاً",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "64 مربعاً"
+    },
+    {
+        "title": "ما أكثر اللغات حروفاُ",
+        "answer_1": "الإنجليزية",
+        "answer_2": "الكمبودية",
+        "answer_3": "العربية",
+        "answer_4": "الأسبانية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الكمبودية"
+    },
+    {
+        "title": "ما هو أكثر كواكب المجموعة الشمسية أقماراً ",
+        "answer_1": "الأرض",
+        "answer_2": "المشتري",
+        "answer_3": "زحل",
+        "answer_4": "أورانوس",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "المشتري"
+    },
+    {
+        "title": "ما هي الدولة الأفريقية الوحيدة التي لم تستعمر",
+        "answer_1": "مصر",
+        "answer_2": "ليبيريا",
+        "answer_3": "توغو",
+        "answer_4": "مالي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ليبيريا"
+    },
+    {
+        "title": "ما عدد أركان الإيمان؟",
+        "answer_1": "خمس أركان",
+        "answer_2": "ست أركان",
+        "answer_3": "عشر أركان",
+        "answer_4": "ثلاث أركان",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ست أركان"
+    },
+    {
+        "title": "حكم الشعب لنفسه",
+        "answer_1": "الديكتاتورية",
+        "answer_2": "الديموقراطية",
+        "answer_3": "الشيوعية",
+        "answer_4": "النازية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الديموقراطية"
+    },
+    {
+        "title": "مانظام الحكم ببريطانيا",
+        "answer_1": "جمهوري",
+        "answer_2": "ملكي",
+        "answer_3": "سلطاني",
+        "answer_4": "فيدرالي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ملكي"
+    },
+    {
+        "title": "في الحركة ...؟",
+        "answer_1": "سعادة",
+        "answer_2": "بركة",
+        "answer_3": "ندامة",
+        "answer_4": "تعاسة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "بركة"
+    },
+    {
+        "title": "تقع مدينة البتراء في",
+        "answer_1": "العراق",
+        "answer_2": "الأردن",
+        "answer_3": "لبنان",
+        "answer_4": "السعودية",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الأردن"
+    },
+    {
+        "title": "بماذا عرفت الثورة التونسية عام 2010",
+        "answer_1": "ثورة الحرية",
+        "answer_2": "ثورة الياسمين",
+        "answer_3": "ثورة 23 يوليو",
+        "answer_4": "ثورة الربيع",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ثورة الياسمين"
+    },
+    {
+        "title": "مخترع التليجراف هو",
+        "answer_1": "نوبل",
+        "answer_2": "ماكروني",
+        "answer_3": "موريس",
+        "answer_4": "فارادي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "موريس"
+    },
+    {
+        "title": "أين ولد رائد علم الإجتماع إبن خلدون",
+        "answer_1": "اليمن",
+        "answer_2": "تونس",
+        "answer_3": "العراق",
+        "answer_4": "المغرب",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "تونس"
+    },
+    {
+        "title": "مربع طوله 6 سم و عرضه 6 سم فما حجمه",
+        "answer_1": "12 cm³",
+        "answer_2": "0 cm³",
+        "answer_3": "36 cm³",
+        "answer_4": "6 cm³",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "0 cm³"
+    },
+    {
+        "title": "الجسر الوحيد الذي يربط بين قارتين يوجد في",
+        "answer_1": "روسيا",
+        "answer_2": "تركيا",
+        "answer_3": "مصر",
+        "answer_4": "اليونان",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "تركيا"
+    },
+    {
+        "title": "أي الدول التالية لا تنتمي إالي اتحاد دول البنلوكس",
+        "answer_1": "هولندا",
+        "answer_2": "أسبانيا",
+        "answer_3": "بلجيكا",
+        "answer_4": "لوكسمبورج",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "أسبانيا"
+    },
+    {
+        "title": "في أي متحف تتواجد لوحة الموناليزا",
+        "answer_1": "برادا",
+        "answer_2": "اللوفر",
+        "answer_3": "الارميتاج",
+        "answer_4": "متحف إيطاليا الدولي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "اللوفر"
+    },
+    {
+        "title": "جزيرة صنافير توجد في ... ؟",
+        "answer_1": "بحر العرب",
+        "answer_2": "البحرالأحمر",
+        "answer_3": "الخليج العربي",
+        "answer_4": "خليج العقبة",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "البحرالأحمر"
+    },
+    {
+        "title": "المدينة التي إستضافت الألعاب الأولمبية 2016",
+        "answer_1": "برلين",
+        "answer_2": "ريو جي جنيرو",
+        "answer_3": "باريس",
+        "answer_4": "طوكيو",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ريو جي جنيرو"
+    },
+    {
+        "title": "أي من هذه الروايات لا تتحدث عن الحرب العالمية الثانية",
+        "answer_1": "الشراع و العاصقة",
+        "answer_2": "صاحبة السمو الملكي",
+        "answer_3": "الطابور الخامس",
+        "answer_4": "البحر و السم",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "صاحبة السمو الملكي"
+    },
+    {
+        "title": "في أي عام تأسست هيئة الأمم المتحدة",
+        "answer_1": "1940",
+        "answer_2": "1945",
+        "answer_3": "1953",
+        "answer_4": "1950",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "1945"
+    },
+    {
+        "title": "ما المادة التي تعطي النبات لونه الأخضر",
+        "answer_1": "كلورال",
+        "answer_2": "الكلوروفيل",
+        "answer_3": "الكلورين",
+        "answer_4": "الحديد",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الكلوروفيل"
+    },
+    {
+        "title": "متصفح سفاري تابع لشركة ...؟",
+        "answer_1": "مايكروسوفت",
+        "answer_2": "آبل",
+        "answer_3": "جوجل",
+        "answer_4": "موزيلا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "آبل"
+    },
+    {
+        "title": "عدد اللغات الرسمية في الأمم المتحدة",
+        "answer_1": "ثلاث لغات",
+        "answer_2": "ست لغات",
+        "answer_3": "أربع لغات",
+        "answer_4": "لغتان",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ست لغات"
+    },
+    {
+        "title": "ما وحدة قياس شدة الصوت",
+        "answer_1": "الهرتز",
+        "answer_2": "ديسيبل",
+        "answer_3": "فولت",
+        "answer_4": "أمبير",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "ديسيبل"
+    },
+    {
+        "title": "توجد جزيرة مالطا في...؟",
+        "answer_1": "البحر الكاريبي",
+        "answer_2": "البحر المتوسط",
+        "answer_3": "المحيط الهندي",
+        "answer_4": "المحيط الأطلسي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "البحر المتوسط"
+    },
+    {
+        "title": "في أي دولة أُقيمت أول نسخة لكأس العالم...؟",
+        "answer_1": "الأرجنتين",
+        "answer_2": "الأوروجواي",
+        "answer_3": "ألمانيا",
+        "answer_4": "إنجلترا",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الأوروجواي"
+    },
+    {
+        "title": "كم كانت خلافة الإمام علي بن أبي طالب",
+        "answer_1": "سبع سنين",
+        "answer_2": "خمس سنوات",
+        "answer_3": "تسع سنوات",
+        "answer_4": "ثلاث سنوات",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "خمس سنوات"
+    },
+    {
+        "title": "كم سنة استمر الاستعمار الفرنسي للجزائر",
+        "answer_1": "125",
+        "answer_2": "132",
+        "answer_3": "113",
+        "answer_4": "141",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "132"
+    },
+    {
+        "title": "من وزير الخارجية البريطاني الذي أعطى لليهود وعد بإنشاء دولة لهم بفلسطين",
+        "answer_1": "روبرت سيسل",
+        "answer_2": "أرثر بلفور",
+        "answer_3": "وليم غلادستون",
+        "answer_4": "هنري بانرمان",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "أرثر بلفور"
+    },
+    {
+        "title": "ما المحيطان الذان تربطهما قناة بنما",
+        "answer_1": "الأطلنطي و الشمالي المتجمد",
+        "answer_2": "الأطلنطي و الهادي",
+        "answer_3": "الهندي و الهادي",
+        "answer_4": "القطبي الجنوبي و الهادي",
+        "defaultWrong": "nothere",
+        "theRightAnswer": "الأطلنطي و الهادي"
+    }
+]

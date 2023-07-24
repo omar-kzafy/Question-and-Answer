@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="files/icon.png">
+    <meta name="title" content="مسابقة سؤال و جواب">
+    <meta name="description" content="A website which test your knowledge and has a Question and score system with dynamic content">
+    <meta name="keywords" content="Questions,Competition,Score">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="Arabic">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.css" integrity="sha512-Z0kTB03S7BU+JFU0nw9mjSBcRnZm2Bvm0tzOX9/OuOuz01XQfOpa0w/N9u6Jf2f1OAdegdIPWZ9nIZZ+keEvBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <title>مسابقة سؤال و جواب</title>
+    <style>
+        .area{
+        background: #4e54c8;  
+        background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
+        width: 100%;
+        height:100vh;
+        }
+
+        .circles{
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .circles li{
+            position: absolute;
+            display: block;
+            list-style: none;
+            width: 20px;
+            height: 20px;
+            background: rgba(255, 255, 255, 0.2);
+            animation: animate 25s linear infinite;
+            bottom: -150px;
+            
+        }
+
+        .circles li:nth-child(1){
+            left: 25%;
+            width: 80px;
+            height: 80px;
+            animation-delay: 0s;
+        }
+
+
+        .circles li:nth-child(2){
+            left: 10%;
+            width: 20px;
+            height: 20px;
+            animation-delay: 2s;
+            animation-duration: 12s;
+        }
+
+        .circles li:nth-child(3){
+            left: 70%;
+            width: 20px;
+            height: 20px;
+            animation-delay: 4s;
+        }
+
+        .circles li:nth-child(4){
+            left: 40%;
+            width: 60px;
+            height: 60px;
+            animation-delay: 0s;
+            animation-duration: 18s;
+        }
+
+        .circles li:nth-child(5){
+            left: 65%;
+            width: 20px;
+            height: 20px;
+            animation-delay: 0s;
+        }
+
+        .circles li:nth-child(6){
+            left: 75%;
+            width: 110px;
+            height: 110px;
+            animation-delay: 3s;
+        }
+
+        .circles li:nth-child(7){
+            left: 35%;
+            width: 150px;
+            height: 150px;
+            animation-delay: 7s;
+        }
+
+        .circles li:nth-child(8){
+            left: 50%;
+            width: 25px;
+            height: 25px;
+            animation-delay: 15s;
+            animation-duration: 45s;
+        }
+
+        .circles li:nth-child(9){
+            left: 20%;
+            width: 15px;
+            height: 15px;
+            animation-delay: 2s;
+            animation-duration: 35s;
+        }
+
+        .circles li:nth-child(10){
+            left: 85%;
+            width: 150px;
+            height: 150px;
+            animation-delay: 0s;
+            animation-duration: 11s;
+        }
+
+
+
+        @keyframes animate {
+
+            0%{
+                transform: translateY(0) rotate(0deg);
+                opacity: 1;
+                border-radius: 0;
+            }
+
+            100%{
+                transform: translateY(-1000px) rotate(720deg);
+                opacity: 0;
+                border-radius: 50%;
+            }
+
+        }
+    </style>
+</head>
+<body class="index" style="overflow: hidden;">
+    <header class="quiz-info">
+        <span class="title">مسابقة سؤال و جواب</span><br>
+        <span style="font-size: 20px;">Made By <a target="_blank" style="text-decoration: none;" href="https://github.com/omar-kzafy">Omar El-Qaddafi</a></span>
+    </header>
+    <nav>
+        <div  class="mover">
+            <i class="fa-solid fa-angle-right"></i>
+        </div>
+        <h2>إحصائياتك باللعبة</h2>
+        <div class="gemsp sur">
+            <h3>Games Played : </h3><span>0</span>
+        </div>
+        <div class="totsc sur">
+            <h3>Total Score : </h3><span>0</span>
+        </div>
+        <div class="quesAns sur">
+            <h3>Question Answered Correctly : </h3><span>0</span>
+        </div>
+        <div class="area" >
+            <ul class="circles">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+            </ul>
+        </div >
+    </nav>
+    <section>
+        <button id="playButton">إلعب</button>
+        <button class="instructions">التعليمات</button>
+        <div class="ordersdiv">
+            <div class="insts">
+                <div id="inst1">
+                    هذه اللعبة تتكون من 20 سؤال متوزعة على مستويات مختلفة,
+                    لكي تفوز يجب عليك ان تنهي ال 20 سؤال دون خسارة
+                </div>
+                <div id="inst2">
+                    السؤال يتكون من 4 اجابات ثلاثة منهم خطأ و واحد صحيح يجب عليك اختياره,لديك 3 مساعدات باللعبة(حذف إجابتين,رأي الجمهور و الـإتصال بصديق)
+                </div>
+                <div id="inst3">
+                    لديك 3 محاولات ان أجبت على سؤال خطأ ينقصن واذا إنتهت المحاولات خسرت في اللعبة<br>
+                    حظ أوفر وبالتوفيق
+                </div>
+            </div>
+            <ul class="bulletsin">
+                <li id="bul1" class="checked"></li>
+                <li id="bul2"></li>
+                <li id="bul3"></li>
+            </ul>
+            <button>إغلاق</button>
+        </div>
+    </section>
+    <script>
+        let but = document.getElementsByClassName('mover')[0]
+        but.onclick = () => {
+            document.querySelector('.mover i').classList.toggle('moved');
+            document.querySelector('nav').classList.toggle('moved')
+        }
+        document.querySelector('#playButton').onclick = () => {
+            window.location.href = window.location.href.slice(0,location.href.indexOf('index')) + 'play.html';
+        }
+        const colors = ["#3CC157", "#2AA7FF", "#1B1B1B", "#FCBC0F", "#F85F36"];
+
+        const numBalls = 100;
+        const balls = [];
+
+        for (let i = 0; i < numBalls; i++) {
+        let ball = document.createElement("div");
+        ball.classList.add("ball");
+        ball.style.background = colors[Math.floor(Math.random() * colors.length)];
+        ball.style.left = `${Math.floor(Math.random() * 100)}vw`;
+        ball.style.top = `${Math.floor(Math.random() * 100)}vh`;
+        ball.style.transform = `scale(${Math.random()})`;
+        ball.style.width = `${Math.random() * 1.5}em`;
+        ball.style.height = ball.style.width;
+        
+        balls.push(ball);
+        document.body.append(ball);
+        }
+
+        // Keyframes
+        balls.forEach((el, i, ra) => {
+            let to = {
+                x: Math.random() * (i % 2 === 0 ? -11 : 11),
+                y: Math.random() * 12
+            };
+
+            let anim = el.animate(
+                [
+                { transform: "translate(0, 0)" },
+                { transform: `translate(${to.x}rem, ${to.y}rem)` }
+                ],
+                {
+                duration: (Math.random() + 1) * 2000, // random duration
+                direction: "alternate",
+                fill: "both",
+                iterations: Infinity,
+                easing: "ease-in-out"
+                }
+            );
+            let ani2m = el.animate(
+                [
+                { opacity: "1" },
+                { opacity: `0.1` }
+                ],
+                {
+                duration: (Math.random()  * 10000), // random duration
+                direction: "alternate",
+                fill: "both",
+                iterations: Infinity,
+                easing: "ease-in-out"
+                }
+            );
+        });
+        document.querySelector('.ordersdiv button').onclick = () => {document.querySelector('.ordersdiv').style.display  = 'none'}
+        document.querySelector('button.instructions').onclick = () => {document.querySelector('.ordersdiv').style.display  = 'flex'};
+        let insts = document.querySelectorAll('.insts > div');
+        function removeClasses() {
+            insts.forEach((e) => {e.style.display = 'none'})
+        }
+        document.querySelectorAll('.bulletsin li').forEach((e) => {
+            e.onclick = () => {
+                document.querySelectorAll('.bulletsin li').forEach((e) => {e.classList.remove('checked')});
+                e.classList.add('checked');
+                if (e.id === 'bul1') {
+                    removeClasses();
+                    insts[0].style.display = 'flex'
+                }else if (e.id === 'bul2') {
+                    removeClasses();
+                    insts[1].style.display = 'flex'
+                }else if (e.id === 'bul3') {
+                    removeClasses();
+                    insts[2].style.display = 'flex'
+                }
+            }
+        });
+
+        document.querySelector('.gemsp.sur span').textContent = localStorage.getItem('gamesPlayed');
+        document.querySelector('.totsc.sur span').textContent = localStorage.getItem('score');
+        document.querySelector('.quesAns.sur span').textContent = localStorage.getItem('questionAnswer');
+    </script>
+</body>
+</html>
